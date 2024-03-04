@@ -7,7 +7,7 @@
 #To set up the project and run it:
 
 1. Run `npm install`.
-2. Run `npm build`.
+2. Run `npm run build`.
 3. Install React Icons by running `npm i react-icons`.
 4. Install Axios by running `npm i axios`.
 5. Start the application by running `npm run dev`.
